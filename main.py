@@ -1,3 +1,4 @@
+import scipy
 import asyncio
 import logging
 import datetime
